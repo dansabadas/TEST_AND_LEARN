@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://johnpapa.net/demos/jsrender" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="True" userName="johnpapa3" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAAjmprP7I7EqAe0/KCujA4wAAAAACAAAAAAAQZgAAAAEAACAAAACtmcIbQ1wVJtfasfTiruKfeXyP98TGwKx93wHHRj5jxgAAAAAOgAAAAAIAACAAAAC5J0UTfnmiyMYnzF+mOm+oCRburHzyjLcv87tOt75FziAAAAABXbD/FjY/7Mi8GXAk7nQy2rmQjUVcG+eUuHwLfLFn7EAAAADVAwVIUxLhMHk6pQhgvnGRl+sifzFu6eQjq3qSMGkir6NLor/IlfyvQ776bv3bGOJd4TyjhiH+RWze8ZiTOrqU" SelectedForPublish="True">
+    <file relUrl="css/styles.css" publishTime="03/18/2012 23:11:08" />
+    <file relUrl="js/jsrender.converters.js" publishTime="03/18/2012 23:07:59" />
+    <file relUrl="html/04-rendering-templates.html" publishTime="03/18/2012 21:48:06" />
+    <file relUrl="templates/_medMusic.tmpl.html" publishTime="03/18/2012 23:05:45" />
+    <file relUrl="images/70018728.jpg" publishTime="11/24/2011 22:38:07" />
+    <file relUrl="images/stars2.png" publishTime="03/16/2012 11:23:57" />
+    <file relUrl="Content/images/glyphicons-halflings.png" publishTime="03/16/2012 23:54:36" />
+    <file relUrl="images/Taylor Koa Series K66ce Grand Symphony 12-String Cutaway Acoustic Electric Guitar.png" publishTime="03/16/2012 11:23:57" />
+    <file relUrl="scripts/bootstrap.min.js" publishTime="03/16/2012 23:54:35" />
+    <file relUrl="html/10-view-paths.html" publishTime="03/18/2012 23:13:05" />
+    <file relUrl="scripts/bootstrap-dropdown.js" publishTime="03/17/2012 04:13:32" />
+    <file relUrl="js/jsrender.helpers.js" publishTime="03/19/2012 08:54:01" />
+    <file relUrl="Content/images/glyphicons-halflings-white.png" publishTime="03/16/2012 23:54:36" />
+    <file relUrl="templates/_portlet.header.tmpl.html" publishTime="03/18/2012 21:21:44" />
+    <file relUrl="Web.config" publishTime="03/18/2012 22:37:39" />
+    <file relUrl="templates/_musicMedWithWarehouse.tmpl.html" publishTime="03/18/2012 23:06:05" />
+    <file relUrl="js/jsrender.utils.js" publishTime="03/18/2012 19:37:20" />
+    <file relUrl="html/__layout for each page.html" publishTime="03/18/2012 22:30:35" />
+    <file relUrl="images/T814ce_tobacco+sunburst.jpg" publishTime="03/16/2012 11:23:57" />
+    <file relUrl="packages/repositories.config" publishTime="11/22/2011 23:55:07" />
+    <file relUrl="images/star_full.PNG" publishTime="11/24/2011 21:13:12" />
+    <file relUrl="scripts/_jsrender.js" publishTime="03/07/2012 23:14:37" />
+    <file relUrl="bin/JsRender Quickstart.pdb" publishTime="03/19/2012 08:59:45" />
+    <file relUrl="packages/jQuery.1.7.1/Content/Scripts/jquery-1.7.1-vsdoc.js" publishTime="11/22/2011 23:55:05" />
+    <file relUrl="images/Paige 6-String Guitar Capo.png" publishTime="03/16/2012 11:23:57" />
+    <file relUrl="html/02-jsrender-no-jquery.html" publishTime="03/18/2012 23:11:49" />
+    <file relUrl="bin/JsRender Quickstart.dll" publishTime="03/19/2012 08:59:45" />
+    <file relUrl="images/T914ce.jpg" publishTime="03/16/2012 11:23:57" />
+    <file relUrl="html/00-index.html" publishTime="03/19/2012 08:45:42" />
+    <file relUrl="images/TDMSM_front_print.jpg" publishTime="03/16/2012 11:23:57" />
+    <file relUrl="templates/_musicMedWithTag.tmpl.html" publishTime="03/18/2012 23:05:56" />
+    <file relUrl="images/60000361.jpg" publishTime="11/24/2011 22:26:54" />
+    <file relUrl="images/Planet Waves NS Classical Guitar Capo.png" publishTime="03/16/2012 11:23:57" />
+    <file relUrl="images/T916ce_tobacco+sunburst.jpg" publishTime="03/16/2012 11:23:57" />
+    <file relUrl="Content/bootstrap-responsive.min.css" publishTime="03/16/2012 23:54:36" />
+    <file relUrl="Content/bootstrap.css" publishTime="03/18/2012 20:18:25" />
+    <file relUrl="images/Taylor 314-CE Left-Handed Grand Auditorium Acoustic-Electric Guitar.png" publishTime="03/16/2012 11:23:57" />
+    <file relUrl="html/01-with-and-without-templates-with-jquery.html" publishTime="03/18/2012 21:49:48" />
+    <file relUrl="images/Dunlop Trigger Classical Guitar Capo.png" publishTime="03/16/2012 11:23:57" />
+    <file relUrl="html/08-for-variations.html" publishTime="03/18/2012 23:12:40" />
+    <file relUrl="images/70128681.jpg" publishTime="11/24/2011 22:35:13" />
+    <file relUrl="html/05-for-data.html" publishTime="03/18/2012 23:12:20" />
+    <file relUrl="images/70053215.jpg" publishTime="11/24/2011 22:38:07" />
+    <file relUrl="images/star_empty.PNG" publishTime="11/24/2011 21:12:50" />
+    <file relUrl="html/13-helper-functions.html" publishTime="03/19/2012 08:57:13" />
+    <file relUrl="templates/_rating.tmpl.html" publishTime="02/23/2012 00:59:28" />
+    <file relUrl="images/jsrender-puzzle.png" publishTime="03/18/2012 23:42:22" />
+    <file relUrl="html/06-if-else-comparison-expression.html" publishTime="03/18/2012 23:12:29" />
+    <file relUrl="Content/bootstrap-responsive.css" publishTime="03/18/2012 10:02:10" />
+    <file relUrl="Content/bootstrap.min.css" publishTime="03/16/2012 23:54:36" />
+    <file relUrl="scripts/jsrender.js" publishTime="03/19/2012 08:53:06" />
+    <file relUrl="css/styles-responsive.css" publishTime="03/18/2012 09:19:53" />
+    <file relUrl="packages.config" publishTime="03/16/2012 23:54:37" />
+    <file relUrl="packages/jQuery.1.7.1/Content/Scripts/jquery-1.7.1.js" publishTime="11/22/2011 23:55:05" />
+    <file relUrl="css/demo.css" publishTime="03/18/2012 23:37:19" />
+    <file relUrl="scripts/jquery-ui-1.8.18.custom.min.js" publishTime="03/12/2012 12:36:09" />
+    <file relUrl="templates/_musicMedWithConverter.tmpl.html" publishTime="03/18/2012 22:19:57" />
+    <file relUrl="images/Jodi Head 3 Inch Denny Wide Art Deco Guitar Strap - Brown and Tan Sequin Sparkle.png" publishTime="03/16/2012 11:23:57" />
+    <file relUrl="scripts/bootstrap.js" publishTime="03/16/2012 23:54:36" />
+    <file relUrl="images/70058021.jpg" publishTime="11/24/2011 22:38:07" />
+    <file relUrl="images/314ce.png" publishTime="03/16/2012 11:23:57" />
+    <file relUrl="images/Levy's Leather Guitar Strap with Dog Tags.png" publishTime="03/16/2012 11:23:57" />
+    <file relUrl="packages/jQuery.1.7.1/Tools/jquery-1.7.1-vsdoc-para.js" publishTime="11/22/2011 23:55:05" />
+    <file relUrl="html/14-allowcode.html" publishTime="03/18/2012 23:13:25" />
+    <file relUrl="packages/jQuery.1.7.1/Content/Scripts/jquery-1.7.1.min.js" publishTime="11/22/2011 23:55:05" />
+    <file relUrl="images/stars.png" publishTime="03/16/2012 11:23:57" />
+    <file relUrl="scripts/jquery-1.7.1.min.js" publishTime="11/22/2011 23:55:06" />
+    <file relUrl="images/60010487.jpg" publishTime="11/24/2011 22:38:07" />
+    <file relUrl="images/LM Products Iron Cross Stud 2 Inch Guitar Strap.png" publishTime="03/16/2012 11:23:57" />
+    <file relUrl="scripts/jquery-1.7.1.js" publishTime="11/22/2011 23:55:06" />
+    <file relUrl="html/15-helper-function-instead-of-allowcode.html" publishTime="03/19/2012 08:54:33" />
+    <file relUrl="html/03-render-values.html" publishTime="03/18/2012 23:12:07" />
+    <file relUrl="html/11-custom-tag-compiled-tmpl.html" publishTime="03/18/2012 23:13:09" />
+    <file relUrl="templates/_portlet.code.tmpl.html" publishTime="03/18/2012 21:46:41" />
+    <file relUrl="scripts/jquery-1.7.1-vsdoc.js" publishTime="11/22/2011 23:55:05" />
+    <file relUrl="images/Taylor Baby Taylor Left-Handed Acoustic Guitar.png" publishTime="03/16/2012 11:23:57" />
+    <file relUrl="scripts/bootstrap-collapse.js" publishTime="03/17/2012 01:49:16" />
+    <file relUrl="html/09-external-template.html" publishTime="03/18/2012 23:12:55" />
+    <file relUrl="js/musicdata.js" publishTime="03/16/2012 23:49:34" />
+    <file relUrl="templates/_portlet.nav.tmpl.html" publishTime="03/19/2012 08:53:43" />
+    <file relUrl="js/jsrender.tags.js" publishTime="03/14/2012 22:02:36" />
+    <file relUrl="images/icon-noimage.png" publishTime="03/16/2012 13:12:13" />
+    <file relUrl="images/El Dorado Vintage Hand-Tooled Leather Guitar Strap.png" publishTime="03/16/2012 11:23:57" />
+    <file relUrl="scripts/prettify.js" publishTime="03/17/2012 19:39:19" />
+    <file relUrl="images/70040695.jpg" publishTime="11/24/2011 22:38:07" />
+    <file relUrl="images/icon-nocover.png" publishTime="11/23/2011 22:53:27" />
+    <file relUrl="css/prettify.css" publishTime="03/17/2012 19:50:57" />
+    <file relUrl="images/Taylor T5 Standard Acoustic-Electric Guitar with Spruce Top.png" publishTime="03/16/2012 11:23:57" />
+    <file relUrl="images/Moody 2 half Inch Luxury Black Leather Guitar Strap with Tobacco Leather Back.png" publishTime="03/16/2012 11:23:57" />
+    <file relUrl="html/12-converters.html" publishTime="03/18/2012 23:13:15" />
+    <file relUrl="html/07-tmpl-combo-iterators.html" publishTime="03/18/2012 23:29:32" />
+    <file relUrl="images/Glider GL-1 Guitar Capo.png" publishTime="03/16/2012 11:23:57" />
+    <file relUrl="templates/_portlet.breadcrumb.tmpl.html" publishTime="03/17/2012 22:14:19" />
+  </publishProfile>
+</publishData>
