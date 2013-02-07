@@ -1,4 +1,4 @@
-﻿var my = my || { }; //my namespace
+﻿var my = my || { }; //my namespace blablabla
 my.getMusic = (function () {
     var taglineBase = "<span style='color:white;background-color:black;margin:2px;font-weight:bold;padding:2px;'><span style='font-style: italic;font-size:16px'>Taylor</span> <span style='font-style: italic;'>Quality Guitars</span></span>";
     return { products: [
